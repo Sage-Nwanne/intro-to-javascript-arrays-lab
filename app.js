@@ -297,7 +297,7 @@ Complete Exercise 15 in the space below:
 // 	[7, 81, 90]
 // ];
 
-
+console.log('Hello')
 let total = 0;
 
 numArrays.forEach(nestedArrays => {
